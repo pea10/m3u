@@ -1,0 +1,301 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://mpics.mgronline.com/pics/Images/561000008833801.JPEG",ช่อง 3HD
+https://doofootball.livestream-cdn.com/iptv/hd-ch3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TATV5_Logo_HD.png/800px-TATV5_Logo_HD.png",ช่อง 5HD
+https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://static.naewna.com/uploads/news/source/447630.gif",ช่อง 7HD
+https://doofootball.livestream-cdn.com/iptv/hd-ch7.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhNFfALCeIMqcuhR6gII15Kkv87tn5TES0Tg&usqp=CAU",ช่อง 8HD
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://f.ptcdn.info/289/035/000/1441802611-34162735-o.jpg",ช่อง 9HD
+https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2020/03/logo-nbt.jpg",ช่อง NBT
+https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="http://logo-th.com/wp-content/uploads/2019/05/PBS.jpg",ช่อง ThaiPBS HD
+https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.webp", ช่อง ไทยรัฐทีวี 
+https://doofootball.livestream-cdn.com/iptv/hd-thairath.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",ช่อง TNN16 
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjcjB_t7DkGaKBoLudUozAqksL8fK2oGjNw&usqp=CAU",ช่อง Top News
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",ช่อง TNN16 
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsoNii1O7IGG8v-LNuqDVOe6LXJi7sDZeOHg&usqp=CAU",ช่อง PPTV HD
+https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU",ช่อง AMARIN TV
+https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXkC0e_gvTCZid8pTBKrQRpr40chmfx4UzCQ&usqp=CAU",ช่อง GMM
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/gmm25_480p/chunks.m3u8?nimblesessionid=12870720
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง ONE
+https://doofootball.livestream-cdn.com/iptv/hd-gmmone.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEERMuJti876zBtxXaPie_SJju8hG8imYjpw&usqp=CAU",ช่อง workpoint TV
+https://doofootball.livestream-cdn.com/iptv/hd-workpoint.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuX6UbrJeoUUaJ6N2xmfVvPdg_tyiwEdGyNw&usqp=CAU",ช่อง MONO 29
+https://laos-tech-live.b-cdn.net/hd-mono_480/index.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",ช่อง Nation TV
+https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSfv06XINUB8LlaqHOzcnVrU)/dm/3/x6eoldf/d/live-3.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnh8GiCGonbc3YNAKENiaCFUjLuAFjB3tORQ&usqp=CAU",ช่อง NEW TV
+https://stream-01.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL5453Kvx7sC3lqplykpP8DiQ0)/dm/3/x7kx5i7/s/live-3.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT4NU9PQbc7mi6uWAXpLiSMQXb-FY9n75NyA&usqp=CAU",ช่อง True 4u
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9TvPI97LViG3o5rnwhdxswNIVm92yLG2ZA&usqp=CAU",ช่อง True InSide HD 
+https://doofootball.livestream-cdn.com/iptv/sd-inside.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",ช่อง M Channel
+https://www.livedoomovie.com/02_MChannel_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-5E2hPHKZ0jpdpV0w2ZN2B3z4LthnoDbIg&usqp=CAU",ช่อง MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w1846386540.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",ช่อง Mix Major Channel
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w894563928.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaII-wJXpCZgJ1QESAstQfJWEI2DmqUvxMXA&usqp=CAU",ช่อง TVB
+http://ip2121.com:8081/live/TVB/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",ช่อง TVB  Thai
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w682710606_b3564000_sltha.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",ช่อง มังกร
+https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xfI6bVKi-q88Qa2ksh34n_N3VHXxH8b2iQ&usqp=CAU",ช่อง CCM
+http://160.119.77.116:8081/iptv/sd-celestial.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlu8U4hf1WpV34k_X-K0L2rs8sPuE9X_vWw&usqp=CAU",ช่อง CTB
+https://cdn-th-vip.login.in.th/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",ช่อง SUN MOVIE CHANNEL
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",ช่อง SAMURAI MOVIE CHANNEL
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwaBs6JC835KwHF_MkY3KEu6UbzDmMDQBjw&usqp=CAU",ช่อง BOXFILM
+http://61.19.242.134/feed/LC52/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiYJ-4su03BK4sXA81HUTEMf96RqlDch8TWA&usqp=CAU",ช่อง Channel 8
+https://cdn-th.login.in.th/ch8/ch8/chunklist_w156925453.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",ช่อง ZEE หนัง
+https://cdnlive.goprimetime.info/feed/chzeenung/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cms.dmpcdn.com/livetv/2020/10/19/6d3c86f0-11b8-11eb-ab84-d705c02e81b2_320.png",ช่อง JKN TV
+https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8rIVfAwbPdEL4_cgBQoULsT2S1r0Y7F55w&usqp=CAU",ช่อง FILM HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8rIVfAwbPdEL4_cgBQoULsT2S1r0Y7F55w&usqp=CAU",ช่อง FILM HD สำรอง
+https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_320.png",ช่อง true series
+http://160.119.77.116:8081/iptv/sd-series.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2016/08/HBO20HD1.png",ช่อง HBO
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2016/08/HBO20HD1.png",ช่อง HBO สำรอง
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/HBO.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrKqL3z0SkACJKkdMdAmdMsMDT3euDmu7mA&usqp=CAU",ช่อง RED by HBO
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/redbyhbo.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TrbGqa5R2KIMhpTiCy8Ilv2aYTlRmlnZ0g&usqp=CAU",ช่อง Foxไทย
+http://160.119.77.116:8081/iptv/sd-fox.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU",ช่อง Thai Film
+https://laos-tech-live.b-cdn.net/sd-thaifilm_480/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F05979f77-0c03-4f14-8d5a-bfc0c6675626.png&w=320&h=240",ช่อง X-Zyte HD
+https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8 
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",ช่อง Premier Football HD 1
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",ช่อง Premier Football HD 1สำรอง
+http://160.119.77.116:8081/iptv/epl-1.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",ช่อง Premier Premier Football HD 2
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://sport.mthai.com/app/uploads/2019/10/truepremierfootballhd3.png",ช่อง Premier Football HD 3
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFmk3T-N2QuE4ad2HGDNZJ14TlCOIvHrGdg&usqp=CAU",ช่อง Premier Football HD 4
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",ช่อง Premier Football HD 5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU",ช่อง beIN sport1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU",ช่อง beIN sport1สำรอง
+https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU",ช่อง beIN SPORTS 2
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU",ช่อง beIN SPORTS 2สำรอง
+https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5ImPpKP_BT78t9p6QEJuZRwYBTywToo_ww&usqp=CAU",ช่อง beIN SPORTS 3
+https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6p1wv9Z02vnP9uPDNejoSw0-UD4nazRhsA&usqp=CAU",ช่อง beIN SPORTS 4
+https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcd83hOkBHwgQVUp4Rg7xKoIypd3JZPt9ng&usqp=CAU",ช่อง beIN SPORTS 5
+https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZSjutXtOgLZHX5vGqsk00i6b11KU1zPP1g&usqp=CAU",ช่อง beIN SPORTS 6
+https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",ช่อง true sport  HD
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",ช่อง true sport  HD  2
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",ช่อง true sport  HD 3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",ช่อง true sport  HD 4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",ช่อง true sport 2
+https://laos-tech-live.b-cdn.net/sd-tsport2_480/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",ช่อง true sport 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",ช่อง true sport 7
+http://160.119.77.116:8081/iptv/sd-tsport7.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",ช่อง NBA TV
+https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",ช่อง Tennis HD
+https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",ช่อง Golf Channel Thailand
+https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZl-SpdoZYTzvv3QDXxCXEjq05iahDad5Gw&usqp=CAU",ช่อง Fox Sports 1 
+https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU",ช่อง Fox Sports 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2F3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png&w=320&h=240",ช่อง Fox Sports 3
+https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",ช่อง NFL TV
+https://laos-tech-live.b-cdn.net/hd-nfl_720/index.m3u8
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",ช่อง BT Sport 1 HD
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",ช่อง BT Sport 2 HD
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",ช่อง BT Sport 3 HD
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="เด็ก" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkqFo7n114lfGUUMAlrqZv8I-1I75H4_eAXg&usqp=CAU",ช่อง การ์ตูนคลับ
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="เด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_320.png",ช่องToonee
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/chunklist_w1022783306.m3u8
+
+#EXTINF:-1 group-title="เด็ก" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Boomerang_logo_v2.svg/1280px-Boomerang_logo_v2.svg.png",ช่อง boomerang
+http://160.119.77.116:8081/iptv/sd-boomerang.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="เด็ก" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",ช่อง ง True Spark Play
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="เด็ก" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk3yGTEW5A1FKXMmnPbB53aarnK-t9rCj9FA&usqp=CAU",ช่อง True Spark Jump 
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="เด็ก" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",ช่อง Disney
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyKcoa-iPlpqaOw5pSyRYV6G9n7DufmQkrDA&usqp=CAU",ช่อง Animal
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEk6NMKsMhwlc4rwaBat6UzSryYolLKZu1eQ&usqp=CAU",ช่อง Discovery Channel
+https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-kyNnXTIwXq89gZ23tNk2xatmuDwZLPjpWw&usqp=CAU",ช่อง  Discovery Asia
+https://laos-tech-live.b-cdn.net/hd-discovery_720/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-HMLOqekM6yRwcZKUKG0zaIMjl7GLrgIew&usqp=CAU",ช่อง HISTORY HD
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0B9KNDkG4a6QTovusxboRIbPfk61loEsn_w&usqp=CAU",ช่อง  History H2
+http://160.119.77.116:8081/iptv/hd-history2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHUuyYuCKC0XP86bIKYcqh_CIG6P8utSX29A&usqp=CAU",ช่อง Nat Geo WILD 
+https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7POxIMN6xQq3gAewXuYxbLDviJNrZU-yS0w&usqp=CAU",ช่อง National Geographic 
+https://laos-tech-live.b-cdn.net/hd-natgeo_720/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXh0_LSTwfh58yHnaAvVfHtoxCAeTGyxEzmQ&usqp=CAU",ช่อง  outside tv
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",ช่อง Explore Life
+https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=320&h=240",ช่อง Explore Sci
+https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",ช่อง Explore Wild
+https://laos-tech-live.b-cdn.net/sd-expwild_480/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png?zoom=2&fit=300%2C100",ช่อง  สำรวจโลก
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://drive.google.com/uc?export=download&id=1Nz7UzT8Q07-DLLZjPxhwgrB-tMVnladU",ช่อง เจริญHD
+https://cdn6.goprimetime.info/feed/LC32/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",ช่อง BBC-earth
+http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutbMENiTMMIkzxyt3TvdwpQp4bA-rArw4gQ&usqp=CAU",ช่อง psi สารดี
+http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1NtU8OZV8NhFilMOeuFcsAOJVTUj5V2ATA&usqp=CAU",ช่อง DMAX
+http://160.119.77.116:8081/iptv/uk-dmax.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/b7dfcc90-b550-11ea-b61c-7dd99cb3fb2c_320.png",ช่อง  TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
