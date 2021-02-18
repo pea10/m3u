@@ -1,0 +1,100 @@
+{
+
+"name":  "ซีรีย์ญี่ปุ่น",
+
+"author": "ABB",
+
+"image": "https://hotseries.club/wp-content/uploads/2019/07/56.Logohotseries.club_.png",
+
+"url": "https://freenote.biz/raw/gCqazWKttk",
+
+"groups": [
+
+{
+
+"name":  "นายกฯ (มือใหม่) หัวใจประชาชน(01-10)",
+
+"author": "ABB",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",
+
+
+"stations":
+
+[
+
+{
+
+name:"ตอน1", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP01.mp4/index.m3u8?st=_sIYH74Ix9NfnjjwNaNA_A&e=1609043646&u=rent_api"},
+
+{
+
+name:"ตอน2", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP02.mp4/index.m3u8?st=idw7hJBuVKAHCeTHZSqa7A&e=1609043717&u=rent_api"},
+
+{
+
+name:"ตอน3", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP03.mp4/index.m3u8?st=waakS8OQxxVt6CKcbeQXzA&e=1609043781&u=rent_api"},
+
+{
+
+name:"ตอน4", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP04.mp4/index.m3u8?st=wHxk6TBpEsJ2z5Y4l-ogzA&e=1609043853&u=rent_api"},
+
+{
+
+name:"ตอน5", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP05.mp4/index.m3u8?st=wOPPKKz2UzoD_sVJ-Rn2pg&e=1609043883&u=rent_api"},
+
+{
+
+name:"ตอน6", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP06.mp4/index.m3u8?st=E7GreeZErZRYyFgohpcPSA&e=1609043911&u=rent_api"},
+
+{
+
+name:"ตอน7", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP07.mp4/index.m3u8?st=KesZs78q5hzslOfh7Oh5cw&e=1609043945&u=rent_api"},
+
+{
+
+name:"ตอน8", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP08.mp4/index.m3u8?st=mjpA2R9Iq4WIPOuBvImUjQ&e=1609043970&u=rent_api"},
+
+{
+
+name:"ตอน9", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP09.mp4/index.m3u8?st=kZJTpbZgwYHxx7rbN2YAdQ&e=1609043996&u=rent_api"},
+
+{
+
+name:"ตอน10 END", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d0YOgP2Pg4kFiM-ReokzBBQMJSYS7Cx3BQ&usqp=CAU",url:"https://cache-movie.dooseries.tv/hls/content/nas05/mvc/S/JP/CHANGE_2008_T/EP10.mp4/index.m3u8"}
+
+]
+
+},
+
+{"name":  "The Naked Director (2019) โป๊ บ้า กล้า รวย ","author": "ABB",
+
+"image":"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",
+
+"stations":
+
+[		
+
+{name:"ตอน1", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/418543cef6fa410d7d24b6c75adeb660/418543cef6fa410d7d24b6c75adeb660.m3u8"},
+
+{name:"ตอน2", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/75907afbea0f8f8799f11307a221431a/75907afbea0f8f8799f11307a221431a.m3u8"},
+
+{name:"ตอน3", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/37900e5cf7dd3f66910897f06331697e/37900e5cf7dd3f66910897f06331697e.m3u8"},
+
+{name:"ตอน4", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/4545f27179e77e6a8cd583b325509bd3/4545f27179e77e6a8cd583b325509bd3.m3u8"},
+
+{name:"ตอน5", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/df08547987981ac432e44ed938858fc8/df08547987981ac432e44ed938858fc8.m3u8"},
+
+{name:"ตอน6", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/4f3d93925557b1ab80d67d9c155cd1ed/4f3d93925557b1ab80d67d9c155cd1ed.m3u8"},
+
+{name:"ตอน7", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/0f3053a068df98b229165a154a837791/0f3053a068df98b229165a154a837791.m3u8"},
+
+{name:"ตอน8", image:"https://baan-series.com/uploads/fa23288da3361e2f4a57211f6e9ba683.jpg",url:"https://xxx.77player.xyz/hls/d9054ed3a394b0bce4f8e3b7b39ab083/d9054ed3a394b0bce4f8e3b7b39ab083.m3u8"}
+
+]
+
+}
+
+]
+
+}
