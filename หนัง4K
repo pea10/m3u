@@ -1,0 +1,21 @@
+{"name":  "หนัง4K",
+
+"author": "ABB",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiVzEUlL3PU5FXIE8IZ5S2_3uWILBrQg96w&usqp=CAU",
+
+"url": "XXX",
+
+"stations":
+
+[
+
+{name:" มู่หลาน 4K", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bIOyirG8dlRe7ipiem2Yf8U24808TYV1zw&usqp=CAU",url:"https://we-play.tv/watching/movie/mulan-4k-2020"},
+
+{
+
+name:"พิทักษ์ฟัดข้ามโลก 4K - Vanguard (2020) 4K", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0ItnXMsSy9N9uM6Tl6YioIgJsPxxlnOzmg&usqp=CAU",url:"https://cache-movie.nungfree.tv/hls/content/nas03/mvc/m/4k/Vanguard_2020/Vanguard_2020_T.mp4/index.m3u8?st=bC-2t4UgCJa9VpX_3Fttig&e=1613014124&u=nungfree"},
+
+]
+
+}
