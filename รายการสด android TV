@@ -1,0 +1,462 @@
+{
+
+"name":  "รายการสด android TV",
+
+"author": "ABB",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEI_YQnm6p5AWeeh18RB827AhRW_RehjGhQ&usqp=CAU",
+
+"url": "xxx",
+
+"groups": [
+
+{
+
+"name":  "ดิจิตอลทีวี","author": "ABB",
+
+"image":"https://s.isanook.com/hi/0/rp/r/w850/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hpLzAvdWQvMjc3LzEzODg3OTAvNy5qcGc=.jpg",
+
+"stations":
+
+[
+
+{name:"CH3HD",image:"https://banlakorn.com/wp-content/uploads/2019/07/ch3.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=1"},
+
+{name:"CH5HD",image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=2"},
+
+{name:"CH7HD",image:"https://static.naewna.com/uploads/news/source/447630.gif",url:"https://www.doomovie-hd.com/?r=tv_view&id=3"},
+
+{name:"CH7HD 1",image:"https://static.naewna.com/uploads/news/source/447630.gif",url:"https://www.we-play.tv/watching/tv/ch7-hd"},
+
+{name:"CH8HD",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhNFfALCeIMqcuhR6gII15Kkv87tn5TES0Tg&usqp=CAU",url:"https://www.thaich8.com/live?var_link=720p"},
+
+{name:"CH9HD",image:"https://f.ptcdn.info/289/035/000/1441802611-34162735-o.jpg",url:"https://www.adintrend.tv/hd/m/ch9"},
+
+{name:"NBT", image:"https://www.prachachat.net/wp-content/uploads/2020/03/logo-nbt.jpg",url:"https://www.sine.tv/tvonline/ch011/"},
+
+{name:"ThaiPBS", image:"http://logo-th.com/wp-content/uploads/2019/05/PBS.jpg",url:"https://www.sine.tv/tvonline/ch025/"},
+
+{name:"ALTB", image:"https://www.altv.tv/_nuxt/img/92802e3.png",url:"https://www.altv.tv/live"},
+
+{name:"ไทยรัฐทีวี", image:"https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.webp",url:"https://www.doomovie-hd.com/?r=tv_view&id=8"},
+
+{name:"PPTV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsoNii1O7IGG8v-LNuqDVOe6LXJi7sDZeOHg&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=9"},
+
+{name:"AMARIN", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU",url:"https://www.sine.tv/tvonline/ch023/"},
+
+{name:"GMM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXkC0e_gvTCZid8pTBKrQRpr40chmfx4UzCQ&usqp=CAU",url:"https://www.adintrend.tv/hd/m/ch0"},
+
+{name:"ONE", image:"https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=12"},
+
+{name:"workpoint TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt7sALyiud3n_YeT4zsVxzbiYGtSMTZ8fFw&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=15"},
+
+{name:"MONO 29", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuX6UbrJeoUUaJ6N2xmfVvPdg_tyiwEdGyNw&usqp=CAU",url:"https://www.we-play.tv/watching/tv/mono29"},
+
+{name:"Nation TV", image:"https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",url:"https://www.sine.tv/tvonline/ch012/"},
+
+{name:"NEW TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnh8GiCGonbc3YNAKENiaCFUjLuAFjB3tORQ&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=67"},
+
+{name:"True 4u", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT4NU9PQbc7mi6uWAXpLiSMQXb-FY9n75NyA&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=68"},
+
+{name:"Voice TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfKySQv6h-SMVHOuudJtA7JBw0VgYnr1a_3w&usqp=CAU",url:"https://www.sine.tv/tvonline/ch015/"}
+
+]
+
+},
+
+{"name":"ทีวีไทยtrue ID", "author": "ABB",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtSYcIpe8RSJ1jOPNDT6Gmi6QcA0ffGZArg&usqp=CAU", 
+
+"stations":
+
+[
+
+{name:CH3", image:"https://banlakorn.com/wp-content/uploads/2019/07/ch3.png",url:"https://tv.trueid.net/embed/ch3-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"CH5", image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png",url:"https://tv.trueid.net/embed/ch5",
+
+"playInNatPlayer": "true"},
+
+{name:"CH7", image:"https://static.naewna.com/uploads/news/source/447630.gif",url:"https://tv.trueid.net/embed/ch7-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"CH8", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhNFfALCeIMqcuhR6gII15Kkv87tn5TES0Tg&usqp=CAU",url:"https://tv.trueid.net/embed/ch8",
+
+"playInNatPlayer": "true"},
+
+{name:"CH9", image:"https://f.ptcdn.info/289/035/000/1441802611-34162735-o.jpg",url:"https://tv.trueid.net/embed/9mcot-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"NBT", image:"https://www.prachachat.net/wp-content/uploads/2020/03/logo-nbt.jpg",url:"https://tv.trueid.net/embed/nbt",
+
+"playInNatPlayer": "true"},
+
+{name:"ThaiPBS", image:"http://logo-th.com/wp-content/uploads/2019/05/PBS.jpg",url:"https://tv.trueid.net/embed/thaipbs",
+
+"playInNatPlayer": "true"},
+
+{name:"ALTB", image:"https://www.altv.tv/_nuxt/img/92802e3.png",url:"https://tv.trueid.net/embed/altv",
+
+"playInNatPlayer": "true"},
+
+{name:"ไทยรัฐทีวี", image:"https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.webp",url:"https://tv.trueid.net/embed/thairathtv-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"PPTV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsoNii1O7IGG8v-LNuqDVOe6LXJi7sDZeOHg&usqp=CAU",url:"https://tv.trueid.net/embed/pptv-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"AMARIN", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU",url:"https://tv.trueid.net/embed/amarintv-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"GMM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXkC0e_gvTCZid8pTBKrQRpr40chmfx4UzCQ&usqp=CAU",url:"https://tv.trueid.net/embed/gmm25",
+
+"playInNatPlayer": "true"},
+
+{name:"ONE", image:"https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",url:"https://tv.trueid.net/embed/one-hd",
+
+"playInNatPlayer": "true"},
+
+{name:"workpoint TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt7sALyiud3n_YeT4zsVxzbiYGtSMTZ8fFw&usqp=CAU",url:"https://tv.trueid.net/embed/workpointtv",
+
+"playInNatPlayer": "true"},
+
+{name:"MONO 29", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuX6UbrJeoUUaJ6N2xmfVvPdg_tyiwEdGyNw&usqp=CAU",url:"https://tv.trueid.net/embed/mono29", "playInNatPlayer": "true"},
+
+{name:"True 4u", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT4NU9PQbc7mi6uWAXpLiSMQXb-FY9n75NyA&usqp=CAU",url:"https://tv.trueid.net/embed/true4u",
+
+"playInNatPlayer": "true"},
+
+{name:"ZEE NUNG", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UT5-GER3yU-75bKKkUSyrWSGvJr6CxTi3g&usqp=CAU",url:"https://tv.trueid.net/embed/zee-nung",
+
+"playInNatPlayer": "true"},
+
+{name:"JKN TV", image:"https://cms.dmpcdn.com/livetv/2020/10/19/6d3c86f0-11b8-11eb-ab84-d705c02e81b2_320.png",url:"https://tv.trueid.net/embed/jknchannel",
+
+"playInNatPlayer": "true"},
+
+{name:"มังกร", image:"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",url:"https://tv.trueid.net/embed/Mangorn",
+
+"playInNatPlayer": "true"},
+
+{name:"เอ็ม แชนแนล", image:"https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",url:"https://tv.trueid.net/embed/mchannel",
+
+"playInNatPlayer": "true"},
+
+{name:"แฟน ทีวี ", image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=320&h=240",url:"https://tv.trueid.net/embed/fantv",
+
+"playInNatPlayer": "true"},
+
+{name:"สบายดี ทีวี", image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fefd05f53-ede6-4141-8ed9-275a4d8e33f4.png&w=320&h=240",url:"https://tv.trueid.net/embed/sabaideetv",
+
+"playInNatPlayer": "true"},
+
+{name:"Nation", image:"https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",url:"https://tv.trueid.net/embed/nationtv",
+
+"playInNatPlayer": "true"},
+
+{name:"NEW TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnh8GiCGonbc3YNAKENiaCFUjLuAFjB3tORQ&usqp=CAU",url:"https://tv.trueid.net/embed/newtv",
+
+"playInNatPlayer": "true"},
+
+{name:"TNN", image:"https://yt3.ggpht.com/ytc/AAUvwnjYnrCtkIy0K7NHroIBSuY4RYq55erKQE3yLalQfJo=s900-c-k-c0x00ffffff-no-rj",url:"https://tv.trueid.net/embed/tnn16",
+
+"playInNatPlayer": "true"},
+
+{name:"TRUE INSIDE HD", image:"https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",url:"https://tv.trueid.net/embed/true-inside-hd",
+
+"playInNatPlayer": "true"}
+
+]
+
+},
+
+{"name":  "หนังและบันเทิง","author": "ABB",
+
+"image": "http://images.gofreedownload.net/2/motion-picture-films-and-popcorn-46176.jpg",
+
+"stations":
+
+[
+
+{name:"WB TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPy8S7QHTl7-s5iRoaK4NKTRKK7UGmyn1JYg&usqp=CAU",url:"https://www.we-play.tv/watching/tv/warner-tv"},
+
+{name:"AXN", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtGYSQLJssaryyuSQPmXlvRUX6tLPLauyt5A&usqp=CAU",url:"https://we-play.tv/watching/tv/axn-hd"},
+
+{name:"FOX MOVIE", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2bio-0ErPVyPn8VQ_O7aojkVjkva-hwsi0g&usqp=CAU",url:"https://freetvdd.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87/fox-movies-premium-th/"},
+
+{name:"FOX Action Movies", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxDaRIjOtZOZodAy96BLunStOoe1DCBChOrw&usqp=CAU",url:"https://www.we-play.tv/watching/tv/fox-action-movies"},
+
+{name:"FOX Family Movies", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHvP9uu3wsArYHgdjEqmJjw0knO_DXCRGqHw&usqp=CAU",url:"https://doomovie.com/live/fox-family-movies"},
+
+{name:"HBO", image:"https://www.wiseknow.com/wp-content/uploads/2016/08/HBO20HD1.png",url:"https://we-play.tv/watching/tv/hbo-hd"},
+
+{name:"FOXไทย", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZNpldZTbzJKNt767ScvrDAlXL1rx6F-ubiQ&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=123"},
+
+{name:"มังกร", image:"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=208"},
+
+{name:"CCM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRke56t96J8fYTeNWLDbQUoyeFDIpKCMNeBMw&usqp=CAU",url:"https://doomovie.com/live/celestial-classic-movies","playInNatPlayer": "true"},
+
+{name:"FILM HD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8rIVfAwbPdEL4_cgBQoULsT2S1r0Y7F55w&usqp=CAU",url:"https://doomovie.com/live/film-hd", "playInNatPlayer": "true"},
+
+{name:"CTB", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbgUhCu_qIzfsHUKIZR8gvIhUoedQZJAHsQQ&usqp=CAU",url:"https://html.login.in.th/flashstreaming/flash_url4/vip/CTB/640/720/2.html?stream="},
+
+{name:CTB1, image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbgUhCu_qIzfsHUKIZR8gvIhUoedQZJAHsQQ&usqp=CAU",url:"https://cdn-th-vip.login.in.th/CTB/CTB/playlist.m3u8"},
+
+{name:"SUN MOVIE", image:"https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",url:"https://cdn6.goprimetime.info/feed/LC1/playlist.m3u8"},
+
+{name:"SUN MOVIEสำรอง", image:"https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",url:"http://61.19.242.134/feed/LC1/index.m3u8"},
+
+{name:"SAMURAI MOVIE", image:"https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",url:"https://cdn6.goprimetime.info/feed/LC2/index.m3u8"},
+
+{name:"SAMURAI MOVIEสำรอง", image:"https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",url:"http://61.19.242.134/feed/LC2/index.m3u8"},
+
+{name:"BOXFILM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwaBs6JC835KwHF_MkY3KEu6UbzDmMDQBjw&usqp=CAU",url:"http://61.19.242.134/feed/LC52/index.m3u8"},
+
+{name:"ZEE", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYqectTbHJT-NK9Ec61xxSHLpftuQ3kEYg6g&usqp=CAU",url:"https://we-play.tv/watching/tv/zee-nung","playInNatPlayer": "true"},
+
+{name:"JKN", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJfcOtzaF9TMRj64yNSi7QoJvfdlknBpUEHg&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=133"},
+
+{name:"FWMOV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzk6CCv93ecs6GhYV_KdZbNeUSpCFG3NNkaw&usqp=CAU",url:"https://www.fwiptv.cc/player_demo.php?channel=89782%22,referer"},
+
+{name:"FWSOV", image:"https://fwiptv.org/postor/20200512165346fwsov.jpg",url:"https://www.fwiptv.cc/player_demo.php?channel=89781%22,referer"},
+
+{name:"Star Chinese Movie", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbSCXoJVZ6XHR-eNBvh4gB47YX_PDX79KIiA&usqp=CAU",url:"https://www.we-play.tv/watching/tv/star-chinese-movies"},
+
+{name:"True Asian Series HD", image:"https://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_320.png",url:"https://www.we-play.tv/watching/tv/true-asian-series-hd"},
+
+{name:"True Asian Series HD1", image:"https://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_320.png",url:"https://freetvdd.com/บันเทิง/asian-series-th/"},
+
+{name:"True Thai Film", image:"https://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",url:"https://doomovie.com/live/thai-film","playInNatPlayer": "true"},
+
+{name:"RED HBO", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfrKqL3z0SkACJKkdMdAmdMsMDT3euDmu7mA&usqp=CAU",url:"https://www.we-play.tv/watching/tv/red-by-hbo"},
+
+{name:"True X-ZYTE", image:"https://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",url:"https://doomovie.com/live/x-zyte-hd", "playInNatPlayer": "true"},
+
+{name:"Hi-Def 1", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJq6VqpYwFfLbxDDjAE_eMZTILYBZ04-G0xg&usqp=CAU",url:"https://www.we-play.tv/watching/tv/hidef-1"},
+
+{"name": "TVB",  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaII-wJXpCZgJ1QESAstQfJWEI2DmqUvxMXA&usqp=CAU",  "url": "http://ip2121.com:8081/live/TVB/chunks.m3u8","playInNatPlayer": "true"},
+
+{name:"TVBไทย", image:"https://www.img.in.th/images/cb740bcbbaa94ba25d9c03d76ae2bdb9.jpg",url:"https://www.mvtv.co.th/channel/tvb-thai"},
+
+{name:"channel8thailand", image:"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"},
+
+{name:"True Series", image:"https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_320.png",url:"https://freetvdd.com/บันเทิง/series-th/"}
+
+]
+
+},
+
+{"name":  "การ์ตูน","author": "ABB",
+
+"image": "https://www.catdumb.com/wp-content/uploads/2016/01/wall-748x420.jpg",
+
+"stations":  [
+
+{name:"CN", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiV8hEgW6VMkQ0yAYdZyUkiF-oln7Bjbj_Gg&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=84"},
+
+{name:"XD", image:"https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=86"},
+
+{name:"การ์ตูนคลับ", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkqFo7n114lfGUUMAlrqZv8I-1I75H4_eAXg&usqp=CAU",url:"https://www.adintrend.tv/hd/m/ch31"},
+
+{name:"True Spark Play", image:"https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",url:"https://www.we-play.tv/watching/tv/true-spark-play"},
+
+{name:"True Spark Jump", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk3yGTEW5A1FKXMmnPbB53aarnK-t9rCj9FA&usqp=CAU",url:"https://www.we-play.tv/watching/tv/true-spark-jump"},
+
+{name:"Aniplus", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8DNWL8dFUfAbgD5HS6pzNZXfv9AtxuPviqQ&usqp=CAU",url:"https://www.we-play.tv/watching/tv/aniplus"},
+
+{name:"BabyTV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8g72biK8C2NT61OYQF_ggSTfL6nxFzgtz0g&usqp=CAU",url:"https://www.we-play.tv/watching/tv/babytv"},
+
+{name:"Nickelodeon", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhMSohp7ggsYUBdQQKSbJb8nJrZojCCzvp2A&usqp=CAU",url:"https://www.we-play.tv/watching/tv/nickelodeon"},
+
+{name:"FWTOON", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNrFtpfn48px5_Apf5sri4EGGsRpBiWDN2Jw&usqp=CAU",url:"https://www.fwiptv.cc/player_demo.php?channel=89780"},
+
+{name:"Boomerang", image:"https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",url:"https://www.fwiptv.cc/player_demo.php?channel=709"},
+
+{name:"SANOOK MOVIE", image:"https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",url:"https://cdn6.goprimetime.info/feed/LC53/index.m3u8"},
+
+{name:"SANOOK MOVIEสำรอว", image:"https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",url:"http://61.19.242.134/feed/LC53/index.m3u8"}
+
+]
+
+},
+
+{"name":  "กีฬาทุกมุมโลก",
+
+"author": "ABB",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnTNJ6fJ2fBEA_bIHdn6CjGA6tmXt3Ei3kQ&usqp=CAU",
+
+"stations":  [
+
+{name:"Premier Football HD 1", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png",url:"https://doomovie.com/live/premier-football-hd-1"},
+
+{name:"Premier Football HD 1สำรอง", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png",url:"https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8"},
+
+{name:"Premier Football HD 1สำรอง1", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png",url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-1"},
+
+{name:"Premier Football HD 2", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png",url:"https://doomovie.com/live/premier-football-hd-2"},
+
+{name:"Premier Football HD 2สำรอง", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png",url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-2"},
+
+{name:"Premier Football HD 3", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd3.png",url:"https://doomovie.com/live/premier-football-hd-3"},
+
+{name:"Premier Football HD 3สำรอง", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd3.png",url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-3"},
+
+{name:"Premier Football HD 4", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd4.png",url:"https://doomovie.com/live/premier-football-hd-4"},
+
+{name:"Premier Football HD 4สำรอง", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd4.png",url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-4"},
+
+{name:"Premier Football HD 5", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd5.png",url:"https://doomovie.com/live/premier-football-hd-5"},
+
+{name:"Premier Football HD 5สำรอง", image:"https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd5.png",url:"https://www.we-play.tv/watching/tv/true-premier-football-hd-5"},
+
+{name:"BeIN Sports 1", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiPOJpSGvrejoHWNuiiMJvr_qeBZpskMMpw&usqp=CAU",url:"https://doomovie.com/live/bein-sports-1"},
+
+{name:"BeIN Sports 1สำรอง", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiPOJpSGvrejoHWNuiiMJvr_qeBZpskMMpw&usqp=CAU",url:"https://www.we-play.tv/watching/tv/bein-sports-1"},
+
+{name:"BeIN Sports 1สำรอง1", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiPOJpSGvrejoHWNuiiMJvr_qeBZpskMMpw&usqp=CAU",url:"https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8"},
+
+{name:"BeIN Sports 2", image:"https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",url:"https://doomovie.com/live/bein-sports-2"},
+
+{name:"BeIN Sports 2สำรอง", image:"https://i.pinimg.com/originals/d9/e3/4b/d9e34b5e5a36e7bcb4dd68e75df5f045.png",url:"https://www.doo2you.com/bein-sport-2/"},
+
+{name:"true sport  HD", image:"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",url:"https://doomovie.com/live/sport-hd-1"},
+
+{name:"true sport  HDสำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-hd"},
+
+{name:"true sport  HD 2", image:"https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",url:"https://doomovie.com/live/sport-hd-2"},
+
+{name:"true sport  HD 2สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-hd-2"},
+
+{name:"true sport  HD 3", image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",url:"https://doomovie.com/live/sport-hd-3"},
+
+{name:"true sport  HD 3สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-hd-3"},
+
+{name:"true sport  HD 4", image:"https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",url:"https://doomovie.com/live/sport-hd-4"},
+
+{name:"true sport  HD 4สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",url:"https://freetvdd.com/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/true-sport-hd-4-th/"},
+
+{name:"true sport 2", image:"https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",url:"https://doomovie.com/live/sport-2"},
+
+{name:"true sport 2 สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-2"},
+
+{name:"true sport 5", image:"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",url:"https://doomovie.com/live/sport-5"},
+
+{name:"true sport 5สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-5"},
+
+{name:"true sport 6", image:"https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",url:"https://doomovie.com/live/sport-6"},
+
+{name:"true sport 6สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-6"},
+
+{name:"true sport 7", image:"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",url:"https://doomovie.com/live/sport-7"},
+
+{name:"true sport 7สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",url:"https://www.we-play.tv/watching/tv/true-sports-7"},
+
+{name:"NBA TV", image:"https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",url:"https://doomovie.com/live/nba-tv"},
+
+{name:"NBA TVสำรอง", image:"https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",url:"https://www.we-play.tv/watching/tv/nba-tv"},
+
+{name:"Tennis HD", image:"https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",url:"https://doomovie.com/live/tennis-hd"},
+
+{name:"Tennis HDสำรอง", image:"https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",url:"https://www.lineballsod.com/doball/live-ch103/"},
+
+{name:"Golf Channel Thailand", image:"https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",url:"https://doomovie.com/live/golf-channel-thailand"},
+
+{name:"Golf Channel Thailandสำรอง", image:"https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",url:"https://www.we-play.tv/watching/tv/golf-channel"},
+
+{name:"Fox Sports HD", image:"https://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",url:"https://www.we-play.tv/watching/tv/fox-sports-hd"},
+
+{name:"Fox Sports 2", image:"https://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",url:"https://doomovie.com/live/fox-sports-2"},
+
+{name:"Fox Sports 3", image:"https://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",url:"https://doomovie.com/live/fox-sports-3"},
+
+{name:"Fox Sports HDสำรอง", image:"https://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",url:"https://doomovie.com/live/fox-sports-1"},
+
+{name:"Fox Sports 2สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",url:"https://www.we-play.tv/watching/tv/fox-sports-2"},
+
+{name:"Fox Sports 3สำรอง", image:"https://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",url:"https://www.we-play.tv/watching/tv/fox-sports-3"},
+
+{name:"NFL Network", image:"https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz",url:"https://www.we-play.tv/watching/tv/nfl-network"},
+
+{name:"Motor Vision", image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fb672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png&w=320&h=240",url:"https://www.we-play.tv/watching/tv/motor-vision"},
+
+{name:"3BB SPORTS 1", image:"https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",url:"https://www.we-play.tv/watching/tv/3bb-sports-1"},
+
+{name:"Eurosport 1", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hZtt8vfS1_ztdI4wBV3K1cq3xkrFcxktqg&usqp=CAU",url:"https://doomovie.com/live/eurosport"},
+
+{name:"Eurosport 2", image:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png",url:"https://doomovie.com/live/eurosport-2"},
+
+{name:"BT Sport 1 HD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",url:"https://www.andaman888th.com/ดูบอลออนไลน์/btsport1/"},
+
+{name:"BT Sport 2 HD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",url:"www.andaman888th.com/ดูบอลออนไลน์/btsport2"},
+
+{name:"BT Sport 3 HD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",url:"www.andaman888th.com/ดูบอลออนไลน์/btsport3"},
+
+{name:"BT Sport 1 HDสำรอง", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",url:"https://www.doomovie-hd.com/?r=tv_view&id=156"},
+
+{name:"BT Sport 2 HDสำรอง", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",url:"https://www.we-play.tv/watching/football/63898"},
+
+{name:"BT Sport 3 HDสำรอง", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",url:"https://www.liveballsod.com/tv-online/ch090/"},
+
+{name:"Sky Sports Premier League", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",url:"https://doomovie.com/live/sky-sports-premier-league"},
+
+{name:"Sky Sports News", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLm_cR2dPDwQSW2a39RzRsQ76VEcO3MciWw&usqp=CAU",url:"https://doomovie.com/live/sky-sports-news"},
+
+{name:"Sky Sports Mix", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGqiy98yFgEtY_FXdFUM2CKJ5m-cusAMBmw&usqp=CAU",url:"https://doomovie.com/live/sky-sports-mix"},
+
+{name:"Sky Sports Golf", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmR_rZ2E6JWGVMoSiRDpDfHxv5-ouD5c8_w&usqp=CAU",url:"https://doomovie.com/live/sky-sports-golf"},
+
+{name:"Sky Sports Football", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iMOglC0wsZ9oGvTzxr5Xos8hiR46_cqD7A&usqp=CAU",url:"https://doomovie.com/live/sky-sports-football"},
+
+{name:"Sky Sports F1", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74BmCFZS2qU05xC66PH_1hLlv62zyPdurZQ&usqp=CAU",url:"https://doomovie.com/live/sky-sports-f1"},
+
+{name:"Sky Sports Arena", image:"https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Arena-2020-logo-250.png",url:"https://doomovie.com/live/sky-sports-arena"}
+
+]
+
+},
+
+{"name":  "สารคดี",
+
+"author": "ABB",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMF0SFvseeLbgqyLKVu2FYeBi1zkYtDvEa3KzOQjOAopJ6yrm_vj0vgbz&s=10",
+
+"stations":  [
+
+{name:"Animal Planet", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyKcoa-iPlpqaOw5pSyRYV6G9n7DufmQkrDA&usqp=CAU",url:"https://www.we-play.tv/watching/tv/animal-planet"},
+
+{name:"Discovery Channel", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEk6NMKsMhwlc4rwaBat6UzSryYolLKZu1eQ&usqp=CAU",url:"https://www.we-play.tv/watching/tv/discovery-channel"},
+
+{name:"Discovery Asia", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-kyNnXTIwXq89gZ23tNk2xatmuDwZLPjpWw&usqp=CAU",url:"https://www.we-play.tv/watching/tv/discovery-asia"},
+
+{name:"History HD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRN2n7WiOITHqWJL0h0-IK5FQOXNXRIo5cAlg&usqp=CAU",url:"https://www.we-play.tv/watching/tv/history-hd"},
+
+{name:"ช่อง History 2", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0B9KNDkG4a6QTovusxboRIbPfk61loEsn_w&usqp=CAU",url:"https://www.we-play.tv/watching/tv/history-h2"},
+
+{name:"LoveNature 4K", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4Tv061sqYaxawaiNuYnbQ-k4S_1T8F1xrEA&usqp=CAU",url:"https://www.we-play.tv/watching/tv/lovenature-4k"},
+
+{name:"Nat Geo WILD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHUuyYuCKC0XP86bIKYcqh_CIG6P8utSX29A&usqp=CAU",url:"https://www.we-play.tv/watching/tv/nat-geo-wild"},
+
+{name:"National Geographic", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7POxIMN6xQq3gAewXuYxbLDviJNrZU-yS0w&usqp=CAU",url:"https://www.we-play.tv/watching/tv/national-geographic"},
+
+{name:"Outdoor Channel", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1uIFpRUzRsMN6qADkhEZ7yuZSeHA8wObFzw&usqp=CAU",url:"https://www.we-play.tv/watching/tv/outdoor-channel"},
+
+{name:"TLC HD", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY2AgS-hWMjSAWNIeQ6a5KmIuvIfIGbTwUVA&usqp=CAU",url:"https://www.we-play.tv/watching/tv/tlc-hd"}
+
+]
+
+}
+
+]
+
+}
+
