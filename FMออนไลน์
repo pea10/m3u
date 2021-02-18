@@ -1,0 +1,23 @@
+{"name":  "FM","author": "ABB",
+
+"image": "https://play-lh.googleusercontent.com/k2cJm0k-KBv4B4VwJs3nhygrgl1ntETPZCIIOqjvFUfwJ-oYPr9iQsjpVSbHLZI6nQ",
+
+"url": "XXX",
+
+"stations":  [
+
+{name:"103 FM", image:"https://images.keepone.net/208894-2017-03-11.jpg",url:"https://www.103likefm.com/"},
+
+{name:"103.5 FM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSxk6JAB_gceJ5sWUSb4KwGDGrABFf8-x4A&usqp=CAU",url:"https://www.fmone1035.com/"},
+
+{name:"88.5 FM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzi0T4KouBmpNlwx82HA6H6fxBMeVkM-CWQ&usqp=CAU",url:"http://43.229.149.109:8003/live"},
+
+{name:"90 FM", image:"https://cdn.webrad.io/images/logos/radioth-net/90-rakthai.png",url:"http://www.90rakthai.com/"},
+
+{name:"เพื่อชีวิต FM", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgfyWENJJ4fuYADy2yKLhMZqONK_ufawt2w&usqp=CAU",url:"https://www.coolzaa.com/requestradio-forlife/"},
+
+{name:"ลูกทุ่งเน็ตเวิร์ก FM", image:"https://lh3.googleusercontent.com/proxy/ozfX_c8CC_XFyAnORt9kKd2gFUqz_9dpwXSa0F_6eLcoQEORlKLLLZxCO9v7ZyWWO58BV20LRMjaB-GU4-7jAEE",url:"http://looktung.net/play"},
+
+]
+
+}
