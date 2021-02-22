@@ -51,8 +51,8 @@ name:"workpoint TV", image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9
 
 {"name":"ทีวีไทยtrue ID", "author": "ABB",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtSYcIpe8RSJ1jOPNDT6Gmi6QcA0ffGZArg&usqp=CAU", 
-"stations":
-[
+"stations":[
+
 
 {name:CH3", image:"https://banlakorn.com/wp-content/uploads/2019/07/ch3.png",url:"https://tv.trueid.net/embed/ch3-hd",
 "playInNatPlayer": "true"},
